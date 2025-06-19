@@ -1,10 +1,7 @@
 [![@ayushknath's Holopin board](https://holopin.me/ayushknath)](https://holopin.io/@ayushknath)
 
 - 👋 Hi, I’m @ayushknath
-- 👀 I’m interested in web development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on frontend projects
-- 📫 How to reach me ayushkumar.nath25@gmail.com
 
 <!---
 ayushknath/ayushknath is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
